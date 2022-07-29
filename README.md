@@ -14,7 +14,7 @@ The three Functions are:
 1. Username contains the following validation:
      - Username cannot be empty.
      - Username cannot start with Special Characters or Digits.
-     - Username must contain '@' & '.'.
+     - Username must contain '@' & '. '
      - Username Exists - prevents repeatation. 
 
 2. Password contain the following  validations:
